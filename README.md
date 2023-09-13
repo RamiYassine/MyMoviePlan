@@ -1,2 +1,1 @@
-# MyMoviePlan
-Movie Show Website
+My Movie Plan website project.
